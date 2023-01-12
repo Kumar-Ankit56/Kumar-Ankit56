@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 🤝 I’m looking for help with **Open source**
+- 🤝 Collab me or ping for help in **Open source**
 
 - 💬 Ask me about **front-end, DBMS , C,C++, Data-structure, JavaScript**
 
