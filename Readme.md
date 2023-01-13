@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumar-ankit56&label=Profile%20views&color=0e75b6&style=flat" alt="kumar-ankit56" /> </p>
 
-- 🔭 I’m currently working on **JavaScript's projects and improving my DSA skill.**
+- 🔭 I’m currently working on **React's projects and improving my DSA skill.**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently Upskilling **Backend skill**
 
 - 🤝 Collab me or ping for help in **Open source**
 
