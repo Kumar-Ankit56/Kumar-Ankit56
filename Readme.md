@@ -9,7 +9,7 @@
 
 - 🤝 Collab me or ping for help in **Open source**
 
-- 💬 Ask me about **front-end, DBMS , C,C++, Data-structure, JavaScript**
+- 💬 Ask me about **front-end, DBMS , C,C++, Data-structure, JavaScript, Java**
 
 - 📫 How to reach me **ankit.kumar895024@gmail.com**
 
